@@ -90,7 +90,7 @@
 - [Live Demo](https://streamalert-a07d2.web.app/)
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/placeholder-image" width="400" />
+<img src="https://private-user-images.githubusercontent.com/72365940/537295873-7946f28c-abe7-4d3c-8662-e4061e202438.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg3NDkwNDgsIm5iZiI6MTc2ODc0ODc0OCwicGF0aCI6Ii83MjM2NTk0MC81MzcyOTU4NzMtNzk0NmYyOGMtYWJlNy00ZDNjLTg2NjItZTQwNjFlMjAyNDM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTE4VDE1MDU0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwZjg2OWQ1YTA5OTBiZDAxY2ZjYjMwNzhkNjRkNWY1ODg5Y2NmZDAwNmQwZjNlOTRiNDZkYTBhMzYzMzI4YmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pqPeB4crbCl52P0X5NA4uLZ_PUo14US4zRRL9b5ncoM" width="400" />
 </div>
 
 ---
