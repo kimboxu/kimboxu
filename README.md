@@ -77,24 +77,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimboxu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimboxu@soongsil.ac.kr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimboxu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://streamalert-a07d2.web.app/)
 
-</div>
-
-## 💻 Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-### 🎯 "1GB RAM으로 99.997%의 성공률을 달성하다"
-
-**효율적인 코드로 최대의 성능을 추구하는 개발자**
-
-![](https://komarev.com/ghpvc/?username=kimboxu&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+</div
