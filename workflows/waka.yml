@@ -1,0 +1,19 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # 6시간마다 업데이트 (UTC 기준)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # 수동 실행 버튼 활성화
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
