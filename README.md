@@ -34,8 +34,8 @@
     <br>
 
 ## ⏱️ Coding Activity (WakaTime)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:kimboxu_waka-->
+<!--END_SECTION:kimboxu_waka-->
 
 ---
 
