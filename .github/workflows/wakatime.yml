@@ -1,0 +1,72 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    # 매일 18:30 UTC (한국 새벽 3:30)
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+  pull-requests: read
+  issues: read
+
+jobs:
+  update-wakatime-readme:
+    name: update-wakatime-readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          # 🔐 GitHub Secrets
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # 기본 정보 표시
+          SHOW_SHORT_INFO: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          
+          # 차트 및 그래프
+          SHOW_LOC_CHART: "False"
+          
+          # 프로젝트 및 언어 통계
+          SHOW_PROJECTS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          
+          # 시간대별 활동
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_COMMIT: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          
+          # 개발 환경
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+          
+          # 추가 통계
+          SHOW_UPDATED_DATE: "True"
+          
+          # 커밋 설정
+          COMMIT_BY_ME: "False"
+          COMMIT_MESSAGE: "📊 Updated with Dev Metrics"
+          COMMIT_SINGLE: "False"
+          
+          # 한국어 출력 + 날짜 포맷
+          LOCALE: "ko"
+          UPDATED_DATE_FORMAT: "%Y년 %m월 %d일 %H:%M:%S UTC"
+          
+          # 섹션 이름 변경 → README 안에서 구분용
+          SECTION_NAME: "elipair_waka"
+
+          # 테마/기타
+          SYMBOL_VERSION: "3"
+          DEBUG_LOGGING: "True"
+          SHOW_TITLE: "True"
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+          TIME_RANGE: "last_7_days"
+          SHOW_TIME: "True"
+          SHOW_MASKED_TIME: "False"
