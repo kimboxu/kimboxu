@@ -52,7 +52,7 @@ jobs:
           UPDATED_DATE_FORMAT: "%Y년 %m월 %d일 %H:%M:%S UTC"
           
           # 섹션 이름 변경 → README 안에서 구분용
-          SECTION_NAME: "elipair_waka"
+          SECTION_NAME: "kimboxu_waka"
 
           # 테마/기타
           SYMBOL_VERSION: "3"
