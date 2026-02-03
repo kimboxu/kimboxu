@@ -57,8 +57,3 @@ jobs:
           # 테마/기타
           SYMBOL_VERSION: "3"
           DEBUG_LOGGING: "True"
-          SHOW_TITLE: "True"
-          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
-          TIME_RANGE: "last_7_days"
-          SHOW_TIME: "True"
-          SHOW_MASKED_TIME: "False"
