@@ -35,7 +35,7 @@
 
 ## ⏱️ Coding Activity (WakaTime)
 <!--START_SECTION:kimboxu_waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -45,7 +45,7 @@
 
 > 📦 GitHub의 3.6 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 184 만큼의 Contributions을 2026년에 했어요
+> 🏆 188 만큼의 Contributions을 2026년에 했어요
  > 
 > 💼 구직중이에요.
  > 
@@ -105,7 +105,7 @@ Jupyter Notebook         1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 2026년 02월 21일 06:38:49 UTC UTC
+ Last Updated on 2026년 02월 21일 12:39:47 UTC UTC
 <!--END_SECTION:kimboxu_waka-->
 
 ---
