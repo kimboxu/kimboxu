@@ -35,7 +35,7 @@
 
 ## ⏱️ Coding Activity (WakaTime)
 <!--START_SECTION:kimboxu_waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -103,7 +103,7 @@ Jupyter Notebook         1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 2026년 04월 20일 08:01:42 UTC UTC
+ Last Updated on 2026년 04월 20일 13:22:57 UTC UTC
 <!--END_SECTION:kimboxu_waka-->
 
 ---
