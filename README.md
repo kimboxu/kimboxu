@@ -47,7 +47,7 @@
 
 > 📦 GitHub의 5.1 MB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 254 만큼의 Contributions을 2026년에 했어요
+> 🏆 262 만큼의 Contributions을 2026년에 했어요
  > 
 > 💼 구직중이에요.
  > 
@@ -112,7 +112,7 @@ Jupyter Notebook         1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 2026년 07월 28일 13:55:00 UTC UTC
+ Last Updated on 2026년 07월 28일 19:17:40 UTC UTC
 <!--END_SECTION:kimboxu_waka-->
 
 ---
